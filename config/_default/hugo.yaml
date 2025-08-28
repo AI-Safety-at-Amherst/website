@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
-relativeURLs: true
+baseURL: 'https://ai-safety-at-amherst.github.io/website/'
+relativeURLs: false
 canonifyURLs: true
 
 ############################
