@@ -5,6 +5,7 @@
 
 title: Creator's Landing Page | Hugo Theme # Website name
 baseURL: 'https://example.com/' # Website URL
+relativeURLs: true
 
 ############################
 ## PAGE OPTIONS
